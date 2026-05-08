@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="70"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:guptasagar04742@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="70"/>
 </a>
 
